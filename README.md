@@ -13,16 +13,4 @@ This project focuses on simulating a solar-powered electrical conversion system 
 - Produce a 240 V peak-to-peak square-wave output, using an inverter and transformer stage.
 - Convert 110 V DC to 5 V DC using a step-down converter configuration.
 
-## Evidence
-The report includes simulated schematics, oscilloscope captures, a system block diagram, and an explanation of the conversion stages. The reported values are simulation results rather than independently validated hardware measurements.
 
-![Selected simulation screenshot](assets/preview.png)
-
-## Project report
-[View full PDF report](report.pdf)
-
-## Source files and reproducibility
-The original editable Proteus project files were not included in the available materials. This repository currently documents the simulation in PDF form; it is **not** a directly runnable circuit model.
-
-## Attribution
-Academic report. Please see the original PDF for source information and authorship identification.
